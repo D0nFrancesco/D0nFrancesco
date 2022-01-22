@@ -7,10 +7,9 @@
 
 🔭 I’m currently working on CoderHub.
 
-🌱 I’m currently learning more about Django, Htmal.
+🌱 I’m currently learning more about Django, Html.
 
 👯 I’m looking to collaborate on Discord.
-
 
 💬 Ask me about amything I can help you with.
 

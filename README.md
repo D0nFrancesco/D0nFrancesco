@@ -4,6 +4,10 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0nFrancesco&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 
+<img align='left' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
+
+<img align='left' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+
 
 🔭 I’m currently working on CoderHub.
 
@@ -19,3 +23,8 @@
 
 ⚡ Fun fact: I like cookies.
                                                                                             
+## Languages
+- German
+- English
+-French 
+-some spanish
